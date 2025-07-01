@@ -49,7 +49,7 @@ python manage.py runserver
 
 Access interactive documentation at:
 
-- Swagger UI: [http://localhost:8000/swagger/](http://localhost:8000/swagger/)  
+- Swagger UI: [http://localhost:8000/](http://localhost:8000/)  
 - ReDoc: [http://localhost:8000/redoc/](http://localhost:8000/redoc/)  
 
 
